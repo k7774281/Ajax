@@ -1,1 +1,14 @@
-
+[
+  {
+     "name":"Iphone11",
+     "price":30000,
+  },
+  {
+     "name":"Iphone12",
+     "price":35000,
+  },
+  {
+     "name":"Macbook",
+     "price":40000.
+  }
+]
